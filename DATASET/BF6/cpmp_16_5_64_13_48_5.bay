@@ -1,0 +1,20 @@
+Label : cpmp_16_5_64_13_48_5.bay
+Width : 16
+Height : 5
+Containers : 64
+Stack 1 : 8 1 4 3 13
+Stack 2 : 
+Stack 3 : 4 6 5 13 1
+Stack 4 : 3 10 2 8 5
+Stack 5 : 1 2 1 5 8
+Stack 6 : 
+Stack 7 : 11 12 2 11 1
+Stack 8 : 13 9 11 7 12
+Stack 9 : 13
+Stack 10 : 1 9 11 3 12
+Stack 11 : 7 8 9 2 3
+Stack 12 : 6 10 4
+Stack 13 : 10 13 8 4 11
+Stack 14 : 1 2 10 12 2
+Stack 15 : 4 6 9 9 6
+Stack 16 : 5 7 10 7 7
